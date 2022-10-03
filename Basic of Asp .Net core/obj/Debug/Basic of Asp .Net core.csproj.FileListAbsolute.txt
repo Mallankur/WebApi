@@ -1,0 +1,8 @@
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\bin\Debug\Basic_of_Asp.Net_core.exe.config
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\bin\Debug\Basic_of_Asp.Net_core.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\bin\Debug\Basic_of_Asp.Net_core.pdb
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\obj\Debug\Basic of Asp .Net core.csproj.AssemblyReference.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\obj\Debug\Basic of Asp .Net core.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\obj\Debug\Basic of Asp .Net core.csproj.CoreCompileInputs.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\obj\Debug\Basic_of_Asp.Net_core.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\.net core MVC\Basic of Asp .Net core\obj\Debug\Basic_of_Asp.Net_core.pdb

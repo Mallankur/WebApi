@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mongodb.Asp.net.core3crudSample/1.0.0": {
+        "runtime": {
+          "mongodb.Asp.net.core3crudSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mongodb.Asp.net.core3crudSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
